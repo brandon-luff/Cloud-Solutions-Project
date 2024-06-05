@@ -4,6 +4,8 @@
 
 The main objective of this project was to design and implement an available, secure, and scalable cloud solution for a fictional organization using AWS. This involved migrating their existing web application and database to the AWS platform, enhancing performance, security, and scalability to meet the growing demands of the organization.
 
+Files Included in Repository
+
 ### Skills Learned
 
 - AWS Architecture Design: Learned to design and implement multi-tier architectures on AWS, utilizing services such as EC2, RDS, S3, and CloudFront.
