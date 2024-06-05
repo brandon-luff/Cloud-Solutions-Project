@@ -7,9 +7,13 @@ The main objective of this project was to design and implement an available, sec
 ### Skills Learned
 
 - AWS Architecture Design: Learned to design and implement multi-tier architectures on AWS, utilizing services such as EC2, RDS, S3, and CloudFront.
+  
 - High Availability and Scalability: Gained experience in implementing high availability and automatic scaling using Multi-AZ deployments and Auto Scaling groups.
+  
 - Security Best Practices: Enhanced skills in applying AWS security measures, including IAM roles, security groups, and encryption.
+  
 - Cost Management: Developed the ability to perform detailed cost analysis and apply cost optimization strategies using AWS tools.
+  
 - Implementation and Testing: Improved practical skills in deploying, testing, and validating AWS infrastructure and applications.
 
 ### Tools Used
